@@ -1,0 +1,21 @@
+#Ignore thumbnails
+Thumbs.db
+
+#User solution and project settings
+*.user
+*.suo
+*.sln.cache
+
+#Build output
+[bB]in/
+[oO]bj/
+
+#Test files
+TestResults/
+
+#Database files
+*.mdf
+*.LDF
+
+#Resharper
+_ReSharper.*/
